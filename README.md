@@ -1,9 +1,13 @@
 # 📊 Sales Dashboard with Excel – Data Analyst Portfolio Project
 
-Welcome to the Sales Dashboard project repository! This project highlights my ability to transform raw sales data into meaningful business insights using Microsoft Excel. The dataset covers sales transactions from a US-based company between 2014 and 2017. The final output is an **interactive and visually appealing dashboard** that helps understand performance across time, location, and product categories.
+Welcome to my Sales Dashboard project repository! This project showcases how raw sales data can be transformed into actionable insights using Microsoft Excel. The dataset includes transactions from a US-based company between 2014 and 2017. The final result is an interactive and insightful dashboard that allows users to explore sales performance across states, product categories, and time periods.
 
 ## 📌 Dashboard Preview:
-![Dashboard Preview](https://github.com/minhaj-313/Sales-Dashboard-Using-Excel---Data-Analyst-Project/blob/main/Sales%20Dashboard%20-%20Excel.png?raw=true)
+![Dashboard Preview](https://github.com/imshamil23/Sales-Dashboard-with-Excel/blob/main/Sales%20Dashboard%20-%20Excel.png?raw=true)
+
+> Check out the interactive dashboard inside the Excel file available in this repo.
+
+---
 
 ## ✅ Features:
 - 📈 Analyze sales trends over time
@@ -17,52 +21,50 @@ Welcome to the Sales Dashboard project repository! This project highlights my ab
 
 ## 🧾 Extended Description
 
-This project demonstrates the full data analysis workflow in Excel—from raw data to interactive dashboards:
+This project covers the full analytics pipeline using Excel—from raw data to dashboard:
 
 ### 1️⃣ Data Cleaning:
-- Removed duplicate and irrelevant entries
-- Standardized date formats and categories
-- Ensured consistency in product naming
+- Removed duplicates and null values
+- Standardized categories and date formats
 
 ### 2️⃣ Exploratory Data Analysis (EDA):
-- Analyzed yearly and monthly sales patterns
-- Identified sales peaks and dips
-- Performed customer and regional segmentation
+- Explored seasonal and regional sales patterns
+- Identified peak months and top customers
 
-### 3️⃣ Dashboard Development:
-- Created pivot tables and pivot charts
-- Added slicers for dynamic filtering (e.g., by year, state, category)
-- Used conditional formatting for KPI visualization
-- Designed with clarity and executive usability in mind
+### 3️⃣ Dashboard Design:
+- Created pivot tables & charts
+- Used slicers for interactivity (filtering by year, state, category)
+- Applied formatting for easy readability and insight extraction
 
-### 4️⃣ Insights Derived:
-- Top 5 states contributing to sales
-- Best and worst performing months
-- High-revenue customer segments
-- Product categories generating the highest profits
+### 4️⃣ Business Insights:
+- Discovered key sales-driving states and customers
+- Identified underperforming categories needing attention
+- Delivered high-level and granular insights for decision-makers
 
 ---
 
 ## 🚀 Getting Started:
-1. **Clone** this repository to your local machine.
+1. **Clone or Download** this repository:  
+   [https://github.com/imshamil23/Sales-Dashboard-with-Excel](https://github.com/imshamil23/Sales-Dashboard-with-Excel)
 2. Open the Excel file: `Sales_Dashboard.xlsx`
-3. Use the slicers and filters to interact with the dashboard.
-4. Explore the `Data` sheet to view the raw dataset used.
+3. Use slicers and filters to explore the interactive dashboard
+4. Check the `Data` sheet to explore the raw dataset
 
 ---
 
 ## 📊 Project Overview:
-- **Objective:** Transform unstructured sales data into actionable insights
-- **Dataset:** Sales transactions from 2014 to 2017 (US-based company)
+- **Objective:** Transform raw sales data into actionable business insights
+- **Dataset:** Sales transactions from 2014–2017
 - **Tools Used:** Microsoft Excel
-- **Key Skills:** Data Cleaning, Analysis, Pivot Tables, Visualization, Dashboard Design
+- **Key Skills:** Data Cleaning, EDA, Pivot Tables, Dashboard Design, Business Insight
 
 ---
 
 ## 🙋 Connect with Me:
-I'm always open to feedback, collaboration, and professional connections.
 
-🔗 [LinkedIn Profile – Mohammed Shamil](https://www.linkedin.com/in/mohammed-shamil-54b61a307/)
+💼 **LinkedIn:** [Mohammed Shamil](https://www.linkedin.com/in/mohammed-shamil-54b61a307/)
+
+Feel free to reach out for feedback, collaborations, or networking opportunities.
 
 ---
 
@@ -71,5 +73,4 @@ I'm always open to feedback, collaboration, and professional connections.
 
 ---
 
-Thank you for visiting this project! ⭐ If you find it helpful or inspiring, feel free to star the repository or share it.  
-Let’s explore the power of Excel and data together! 🚀
+⭐ *If you found this project helpful or interesting, please give it a star and share it. Let’s explore data together!* 🚀
