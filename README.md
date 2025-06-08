@@ -5,7 +5,6 @@ Welcome to my Sales Dashboard project repository! This project showcases how raw
 ## 📌 Dashboard Preview:
 ![Dashboard Preview](https://github.com/imshamil23/Sales-Dashboard-with-Excel/blob/main/Sales%20Dashboard%20-%20Excel.png?raw=true)
 
-> Check out the interactive dashboard inside the Excel file available in this repo.
 
 ---
 
