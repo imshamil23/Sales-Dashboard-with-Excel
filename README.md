@@ -1,43 +1,34 @@
-📊 Sales Dashboard Using Excel – Data Analyst Portfolio Project
-Welcome to my Excel-based Sales Dashboard project! This analysis is based on a dataset from a US-based company, covering sales transactions from 2014 to 2017. The goal of this project is to showcase my ability to clean, analyze, and visualize data using Microsoft Excel.
+# Sales Dashboard with Excel - Data Analyst Project 📊
 
-🔍 Project Highlights
-✅ Time-Series Sales Trends – Identify patterns and seasonality across years and months
+Welcome to the Sales Dashboard project repository! This project focuses on analyzing sales data from a US-based company spanning 2014 to 2017. Through Excel, we've crafted an interactive dashboard that provides comprehensive insights into sales performance across different product categories and states.
 
-✅ State-Wise Performance – Visualize sales distribution by region
-
-✅ Customer Insights – Discover top-performing customers
-
-✅ Product Category Profitability – Analyze profits by category
-
-✅ Interactive Dashboard – User-friendly visual summary for business stakeholders
-
-📌 Preview
+## Dashboard Preview:
+![Dashboard Preview](https://github.com/minhaj-313/Sales-Dashboard-Using-Excel---Data-Analyst-Project/blob/main/Sales%20Dashboard%20-%20Excel.png?raw=true)
 
 
-This dynamic dashboard was built using Excel pivot tables, slicers, charts, and formatting techniques to bring insights to life.
+## Features:
+- Analyze sales trends over time
+- Visualize sales distribution by state
+- Identify top-performing customers
+- Dive into monthly sales analysis
+- Explore profitability by product category
 
-🛠 Tools & Skills Used
-Tools: Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
+## Getting Started:
+1. Clone this repository to your local machine.
+2. Open the Excel file `Sales_Dashboard.xlsx` to explore the dashboard.
+3. Dive into the `Data` folder to access the raw dataset.
 
-Skills: Data Cleaning, Data Analysis, Dashboard Design, Business Insight Extraction
+## Project Overview:
+- **Objective:** To transform raw sales data into actionable insights.
+- **Tools Used:** Microsoft Excel
+- **Skills Demonstrated:** Data analysis, visualization, dashboard design.
 
-📂 How to Use
-Clone/download this repository.
+## Connect with Me:
+Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile](https://www.linkedin.com/in/minhaj313)
 
-Open the Sales_Dashboard.xlsx file.
+## Tags:
+#DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics
 
-Use slicers and filters to interact with the dashboard.
+---
 
-Check the Data sheet for raw information.
-
-🎯 Objective
-Transform unstructured sales data into a professional dashboard that enables decision-makers to quickly understand performance metrics and uncover business opportunities.
-
-🔗 Let’s Connect
-Feel free to connect with me for feedback, collaboration, or networking:
-
-🔹 LinkedIn: mohammed-shamil-54b61a307
-
-📌 Tags
-#DataAnalysis #ExcelDashboard #DataVisualization #BusinessIntelligence #PortfolioProject #SalesAnalytics #DataAnalyst
+Explore the power of data analytics and unlock valuable insights with this Sales Dashboard project! Feel free to reach out for any questions or collaborations. Happy analyzing! 🚀
